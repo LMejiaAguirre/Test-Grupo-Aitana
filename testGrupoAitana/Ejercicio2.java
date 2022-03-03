@@ -12,10 +12,6 @@ public class Ejercicio2 {
 			Precios.add((float)Math.random()*99+1);
 		}
 		
-//		for (int i = 0; i < Precios.size(); i++) {
-//			System.out.println(String.format("%.2f", Precios.get(i))+ " Euros");
-//		}
-		
 		Collections.sort(Precios);
 		System.out.println("Mayor precio: " + String.format("%.2f", Precios.get(Precios.size()-1)) + " Euros");
 		System.out.println("Menor precio: " + String.format("%.2f", Precios.get(0)) + " Euros");
