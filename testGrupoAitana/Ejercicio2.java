@@ -6,6 +6,7 @@ import java.util.Collections;
 public class Ejercicio2 {
 
 	public static void main(String[] args) {
+		//He generado una array de precios aleatorios
 		ArrayList<Float> Precios = new ArrayList<Float>();
 		
 		for (int i = 0; i < 100; i++) {
