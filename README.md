@@ -1,7 +1,7 @@
 # Test-Grupo-Aitana
 
 1. Haz un algoritmo en el lenguaje que elijas que escriba los números del 100 al 1. Además, teniendo en cuenta que:
-    • Si múltiplo de 7, escribe una A en lugar del número
+    • Si es múltiplo de 7, escribe una A en lugar del número
     • Si es múltiplo de 2 una B
     • Si es múltiplo de ambos, escribe AB.
 2. Escribe un algoritmo que; dado una lista/array de precios (decimales), podamos obtener:
